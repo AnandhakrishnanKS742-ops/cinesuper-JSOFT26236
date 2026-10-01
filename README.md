@@ -1,2 +1,2 @@
-# cinesuper-JSOFT26236
+# cinesuper-jsoft26236
 COLLEGE PROJECT 
